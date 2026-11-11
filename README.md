@@ -19,5 +19,3 @@ Here are some ideas to get you started:
 I develop professional tools and plugins for *LightWave 3D* to optimize 3D artist workflows. If my work helps your projects, consider supporting ongoing development and new releases by buying me a coffee! ☕
 
 [![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/karliokaldeira)
-Suporte me on Ko-fi
-https://ko-fi.com/karloskaldeira
